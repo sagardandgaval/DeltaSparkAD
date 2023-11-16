@@ -10,7 +10,7 @@
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
-      <module name="DeltaSparkAD" target="17" />
+      <module name="DeltaSparkAD" target="11" />
     </bytecodeTargetLevel>
   </component>
   <component name="JavacSettings">
